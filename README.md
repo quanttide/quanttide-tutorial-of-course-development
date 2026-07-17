@@ -1,6 +1,6 @@
-# quanttide-tutorial-of-course-development
+# 量潮课程研发教程  
 
-量潮课程研发教程 —— 从零开始制作课程的实战教程合集。
+从零开始制作课程的实战教程。
 
 ## 许可
 
